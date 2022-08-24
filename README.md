@@ -2,7 +2,7 @@
 
 Slides from C++ Corehard 2015 conference
 
-## Content
+## Contents
 
 1. [Calculating money and time on computer. Not a cent lost](https://github.com/PatriotRossii/cppcorehard-2015/blob/master/slides/ss-55533072.pdf)
 2. [RAII Tricks](https://github.com/PatriotRossii/cppcorehard-2015/blob/master/slides/raii-55533129.pdf)
